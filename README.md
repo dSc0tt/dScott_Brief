@@ -1,12 +1,14 @@
 ## Darius Scott
 
-You can use the [editor on GitHub](https://github.com/dSc0tt/dScott_Brief/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am skilled in website development, and am an expert in coding with programs such as HTML/CSS, PHP, MySQL, and am currently studying Python. I have also used tools such as Choreograph and Processing to code robots and design art installations. My GitHub portfolio can be found at @dsc0tt. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I also have skills in motion graphics, graphic design, and video production. I am familiar with the Adobe suite of products and have utilized them on multiple projects with the Hirshhorn Museum.
+I am skilled with computers, and have an aptitude for learning. If I am not familiar with a particular product or tool that is necessary for a job, I can learn how to use it in no time.
 
-### Markdown
+### Education
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+SEPT  2017 - SEPT 2021
+Northwest Highschool, Germantown, Maryland
 
 ```markdown
 Syntax highlighted code block
