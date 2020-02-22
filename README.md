@@ -30,7 +30,18 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Experience
+
+JAN 2017 - PRESENT
+BDPA, Washington DC - Student, National Champion
+- For the last three years, I have trained for and participated in a National Website Development competition. Last year, my team and I claimed the title of National Champions of the High School Computer Competition. (reference link here and pre-championship interviews here) 
+
+Jan 2016 - Jan 2020
+Hirshhorn ArtLab, Washington, DC - Emerging Artist, Studio Assistant
+- Since my eighth grade year I’ve been a member of the Smithsonian Hirshhorn Museum’s Artlab, and have participated in a number of their programs such as:
+  - ArtLab’s Emerging Artist Program/Showcase (link to the 2018 showcase wrap-up video can be found here)
+  - ArtLab’s Pepper Production Team (link to a PBS Newshour interview can be found here)
+  - ArtLab’s Video Production Masterclass Internship
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dSc0tt/dScott_Brief/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
